@@ -1,0 +1,11 @@
+build/
+ext_lib/
+.idea/
+*.swp
+*.swo
+cmake-build-debug/
+src/build/
+src/__pycache__/
+src/dl.cpython-36m-x86_64-linux-gnu.so
+src/.ipynb_checkpoints
+docs/build/
